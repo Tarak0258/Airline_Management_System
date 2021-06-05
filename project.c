@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 //functions
-voi introduction();
+
 void loginfun();
 void employeeDiv();
 
